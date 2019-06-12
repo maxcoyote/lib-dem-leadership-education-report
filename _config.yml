@@ -8,6 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+name: Lib Dem Leadership Education Report
+markdown: kramdown
 plugins:
 - jekyll-feed
 - jekyll-sitemap
